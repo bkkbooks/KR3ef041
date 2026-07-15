@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ef041/v1
 canonical_location: https://kanripo.org/bkk/KR3ef041/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 傷寒括要
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ef041_000.yaml, hash: 'sha256:710b39c8b52f67b24076864824589c0cb70a29b9d49cf83498e569555f045242'}
-  - {seq: 1, filename: KR3ef041_001.yaml, hash: 'sha256:a64722c7c9735a36abace3973742f59b8ef4b992a8f4e518ad9f848943c84183'}
-  - {seq: 3, filename: KR3ef041_003.yaml, hash: 'sha256:f9be517868f591ccb46bc14b4f84bfd042a5a8161c734e44a9def9150d2bc005'}
+  - {seq: 0, filename: KR3ef041_000.yaml, hash: 'sha256:c7d560f20259c4eedd1a172dbde535e43e5f3d1c7804933b0f7f4dd6a4cf694a'}
+  - {seq: 1, filename: KR3ef041_001.yaml, hash: 'sha256:afb5f6abde8ec762d5efe91ade4fe886440de8160f025917810aa1d29500435a'}
+  - {seq: 3, filename: KR3ef041_003.yaml, hash: 'sha256:eac8c549fc70451e1f0f77e96f9d260ac27d0c93c6f4ebc3d337c9bef22ed0e3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef041_000.markers.yaml, hash: 'sha256:d2b45c83dc7889a7674b8d39b9333d71eeb2c9dc1cd83a58f6964df2191b4c6e'}
-  - {seq: 1, role: markers, filename: assets/KR3ef041_001.markers.yaml, hash: 'sha256:268629d0d41d9aa3a1a19c7c7abda537c2293dab64af3ccee82f630b4c1b39d8'}
-  - {seq: 3, role: markers, filename: assets/KR3ef041_003.markers.yaml, hash: 'sha256:5a3ff8bc0e2c884340eddcd10bf6a13d098e98425e0030a07cc5d84dc3453aec'}
+  - {seq: 0, role: markers, filename: assets/KR3ef041_000.markers.yaml, hash: 'sha256:ef8df012a1b614752ecec2d6f56c504726bc601804ed5f3f165edf6ad61c6d56'}
+  - {seq: 1, role: markers, filename: assets/KR3ef041_001.markers.yaml, hash: 'sha256:190f122d5d04561361c1a901e5c4d35d8bbb1569517390ffdaec2c663b40839c'}
+  - {seq: 3, role: markers, filename: assets/KR3ef041_003.markers.yaml, hash: 'sha256:c47b9a5b0a9772ee2370e82b67a51c7c01b8234455632c6830aceed11b6091d7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -3225,4 +3225,7 @@ table_of_contents:
   label: 問因察症正名總論
   type: section
   level: 2
-hash: sha256:5bdc1a3a94400a802fe53ae10e891bb2e712fb18552c09970948fbdab127c255
+hash: sha256:b0cdf384cd90677f301aeefa24828506a5cc2b22d413a998b561e902357eb927
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
