@@ -22,8 +22,8 @@ assets:
   - {seq: 3, filename: KR3ef041_003.yaml, hash: 'sha256:eac8c549fc70451e1f0f77e96f9d260ac27d0c93c6f4ebc3d337c9bef22ed0e3'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ef041_000.markers.yaml, hash: 'sha256:ef8df012a1b614752ecec2d6f56c504726bc601804ed5f3f165edf6ad61c6d56'}
-  - {seq: 1, role: markers, filename: assets/KR3ef041_001.markers.yaml, hash: 'sha256:190f122d5d04561361c1a901e5c4d35d8bbb1569517390ffdaec2c663b40839c'}
-  - {seq: 3, role: markers, filename: assets/KR3ef041_003.markers.yaml, hash: 'sha256:c47b9a5b0a9772ee2370e82b67a51c7c01b8234455632c6830aceed11b6091d7'}
+  - {seq: 1, role: markers, filename: assets/KR3ef041_001.markers.yaml, hash: 'sha256:de9b3d45308c6d34f8123a8a14d55fb3ee49912bc5b81de4e53b8c4375a1fb01'}
+  - {seq: 3, role: markers, filename: assets/KR3ef041_003.markers.yaml, hash: 'sha256:dce776a1a6ace9cf96c34b239c6a566242cc1e1af5dcea308f14fdb99079e6aa'}
 table_of_contents:
 - ref:
     seq: 0
@@ -3225,7 +3225,7 @@ table_of_contents:
   label: 問因察症正名總論
   type: section
   level: 2
-hash: sha256:b0cdf384cd90677f301aeefa24828506a5cc2b22d413a998b561e902357eb927
+hash: sha256:cb5f9acc567d0f99eb136cb87fdfd85deaa1f9ad3d45d9b9f2d3e1866e968c3a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

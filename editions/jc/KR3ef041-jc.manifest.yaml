@@ -22,8 +22,8 @@ assets:
   - {seq: 3, filename: KR3ef041_003-jc.yaml, hash: 'sha256:f9be517868f591ccb46bc14b4f84bfd042a5a8161c734e44a9def9150d2bc005'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ef041_000-jc.markers.yaml, hash: 'sha256:cda8b5e2e7b1a152398510c650db2986d832830f4b72d83d4b68ea1ce62f7bd5'}
-  - {seq: 1, role: markers, filename: assets/KR3ef041_001-jc.markers.yaml, hash: 'sha256:0986824f4e3874a6c830c4df60e0e4836c49d88b22c35c85026a90cd76f12dcb'}
-  - {seq: 3, role: markers, filename: assets/KR3ef041_003-jc.markers.yaml, hash: 'sha256:e7112ba65de74e9e93e9c49375774886edadc206b40359e26659df22b13ac92f'}
+  - {seq: 1, role: markers, filename: assets/KR3ef041_001-jc.markers.yaml, hash: 'sha256:34dc9201a6c1f2ada9400cbe4a7cfcdf4b089e52341735caa8b2edbfd98eb8a7'}
+  - {seq: 3, role: markers, filename: assets/KR3ef041_003-jc.markers.yaml, hash: 'sha256:4e3ad3a612cebd240f03f62eeea7a7576fb4c9921a7bbefff2e98a7093eb0b1c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -3225,4 +3225,4 @@ table_of_contents:
   label: 問因察症正名總論
   type: section
   level: 2
-hash: sha256:ff84e008bd81afd38f5ee4b700c4092f9e20dabda396d62f87b8767efb25f5fc
+hash: sha256:00ae298ef4ba2d72aafc725e9f2cfa0bce58161908b6a51d3a0a70ae3adf4e19
